@@ -1,1 +1,1 @@
-VALIDADOR-DE-CPF- Mostra se o CPF digitado é Válido ou Inválido. Linguagens utilizadas: GTML, JS e CSS.
+Desenvolvemos em grupo um validador de CPF, utilizando as linguagens HTML, JavaScript e CSS. Essa ferramenta permite verificar se o CPF digitado é válido ou inválido. A colaboração em grupo proporcionou uma troca de conhecimentos e habilidades, resultando em uma implementação eficiente e precisa do validador.
